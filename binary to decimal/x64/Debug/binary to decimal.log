@@ -1,0 +1,3 @@
+﻿  binary to decimal.cpp
+D:\programing languages\C++\DSA programs\binary to decimal\binary to decimal.cpp(13,14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  binary to decimal.vcxproj -> D:\programing languages\C++\DSA programs\binary to decimal\x64\Debug\binary to decimal.exe
